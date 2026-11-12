@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anthonyluccas.github.io/gta-6-project/">
+  <a href="https://devanthonyferreira.github.io/gta-6-project/">
     <img src="https://img.shields.io/badge/🚀_Ver_projeto_no_ar-FF2E93?style=for-the-badge" alt="Ver projeto no ar" />
   </a>
 </p>
@@ -48,7 +48,7 @@ Não precisa instalar nada. Basta clonar o repositório e abrir o arquivo no nav
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/anthonyluccas/gta-6-project.git
+git clone https://github.com/devanthonyferreira/gta-6-project.git
 
 # 2. Entre na pasta do projeto
 cd gta-6-project
@@ -61,7 +61,7 @@ cd gta-6-project
 ## 🌐 Deploy
 
 O projeto está publicado com o GitHub Pages:
-👉 https://anthonyluccas.github.io/gta-6-project/
+👉 https://devanthonyferreira.github.io/gta-6-project/
 
 ## 📄 Licença
 
@@ -70,5 +70,5 @@ Este projeto está sob os termos da licença **MIT**. Veja o arquivo [LICENSE](L
 ---
 
 <p align="center">
-  Feito com 💜 por <a href="https://github.com/anthonyluccas">Anthony</a>
+  Feito com 💜 por <a href="https://github.com/devanthonyferreira">Anthony</a>
 </p>
